@@ -5,10 +5,9 @@
 ## Language Model Learning a Dataset for Data-Augmented Prediction
 
 [![License: AFL v3](https://img.shields.io/badge/License-AFLv3-yellow.svg?style=for-the-badge)](./LICENSE.md)
-[![arXiv](https://img.shields.io/badge/arXiv-<arxiv id here>-B31B1B?logo=arxiv&style=for-the-badge)](https://arxiv.org/abs/<arxiv id here>)
+[![arXiv](https://img.shields.io/badge/arXiv-2409.18957-B31B1B?logo=arxiv&style=for-the-badge)](https://arxiv.org/abs/2409.18957)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-
-<br> <br>
+<br> <br> <br>
 
 #### Why LML & DAP?
 - Classification tasks are typically handled using Machine Learning (ML) models, which lack a balance between accuracy and interpretability.
@@ -16,7 +15,11 @@
 - Unlike ML models that rely heavily on data cleaning and feature engineering, this method streamlines the process using LLMs.
 
 <!-- Demo image -->
-![Demo](./files/Demo.png)
+LML: <br>
+![Demo](./files/Demo_LML.png)
+DAP: <br>
+![Demo](./files/Demo_DAP.png)
+
 
 Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
 
@@ -24,7 +27,7 @@ Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
 > Please star :star: the repository to show your support. <br>
 
 ## :page_facing_up: Research Paper
-A **preprint** of the research paper is available on [arXiv](https://arxiv.org/abs/<arxiv id here>) <br>
+A **preprint** of the research paper is available on [arXiv](https://arxiv.org/abs/2409.18957) <br>
 
 ## :bookmark_tabs: Citation
 To use my paper for reference, please cite it as below:
@@ -36,7 +39,7 @@ To use my paper for reference, please cite it as below:
 	month={Sep},
 	archivePrefix={arXiv},
 	primaryClass={cs.CL},
-	url={https://arxiv.org/abs/<arxiv id here>}
+	url={https://arxiv.org/abs/2409.18957}
 }
 ```
 
