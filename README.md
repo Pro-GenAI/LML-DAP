@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 <br> <br> <br>
 
-#### Why LML & DAP?
+### Why LML & DAP?
 - Classification tasks are typically handled using Machine Learning (ML) models, which lack a balance between accuracy and interpretability.
 - This project introduces a new approach to using Large Language Models (LLMs) for classification tasks in an explainable way.
 - Unlike ML models that rely heavily on data cleaning and feature engineering, this method streamlines the process using LLMs.
@@ -59,18 +59,18 @@ For more projects, open the profile: **[@Pro-GenAI](https://github.com/Pro-GenAI
 
 ## :hammer_and_wrench: Contributing
 Contributions are welcome! Feel free to create an issue for any bug reports or suggestions. <br>
-To contribute, star :star: the repository and create an Issue. If I can't solve it, I will allow anyone to create a pull request.<br>
+To contribute, please star :star: the repository and create an Issue. If I can't solve that, I will allow anyone to create a pull request.<br>
 
 
 ## :identification_card: License
-Copyright (c) 2024 Praneeth Vadlapati <br>
-Please refer to the [LICENSE](./LICENSE.md) file for more information.
+Copyright &copy; 2024 Praneeth Vadlapati <br>
+Please refer to the [LICENSE](./LICENSE.md) file for more information. <br>
+To request a permission to use my work, please contact me using the link below.
 
 
 ## :warning: Disclaimer
 The code is not intended for use in production environments.
 This code is for educational and research purposes only.
-
 No author is responsible for any misuse or damage caused by this code.
 Use it at your own risk. The code is provided as is without any guarantees or warranty.
 
