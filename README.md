@@ -77,6 +77,11 @@ Use it at your own risk. The code is provided as is without any guarantees or wa
 
 ## :globe_with_meridians: Acknowledgements
 - Special thanks to **Groq** (https://groq.com/) for a fast a inference of Llama 3.1
+- Image Credits:
+	- Database: https://pixabay.com/vectors/database-data-storage-cylinder-149760/
+	- Data Summary: https://pixabay.com/vectors/documents-paper-text-icon-149799/
+	- Test Data: https://pixabay.com/vectors/flask-test-tube-icon-medical-5817899/
+	- Checkmark: https://pixabay.com/vectors/confirmation-symbol-icon-green-1152155/
 
 
 ## :email: Contact
