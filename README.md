@@ -3,22 +3,23 @@
 # <img src="./files/logo_small.jpg" align="left" width="250" alt="LML-DAP" /> LML & DAP
 
 ## Language Model Learning a Dataset for Data-Augmented Prediction
+An alternative of Machine Learning using LLMs
 
 [![License: AFL v3](https://img.shields.io/badge/License-AFLv3-yellow.svg?style=for-the-badge)](./LICENSE.md)
 [![arXiv](https://img.shields.io/badge/arXiv-2409.18957-B31B1B?logo=arxiv&style=for-the-badge)](https://arxiv.org/abs/2409.18957)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-<br> <br> <br>
+<br>
 
-### Why LML & DAP?
+### Why LML & DAP:
 - Classification tasks are typically handled using Machine Learning (ML) models, which lack a balance between accuracy and interpretability.
 - This project introduces a new approach to using Large Language Models (LLMs) for classification tasks in an explainable way.
 - Unlike ML models that rely heavily on data cleaning and feature engineering, this method streamlines the process using LLMs.
 
 <!-- Demo image -->
-LML: <br>
-![Demo](./files/Demo_LML.png)
-DAP: <br>
-![Demo](./files/Demo_DAP.png)
+**LML process**: <br>
+<img src="./files/LML.png" alt="LML Demo" width="800"> <br>
+**DAP process**: <br>
+<img src="./files/DAP.png" alt="DAP Demo" width="800"> <br>
 
 
 Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
