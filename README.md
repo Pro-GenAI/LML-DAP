@@ -33,13 +33,14 @@ A **preprint** of the research paper is available on [arXiv](https://arxiv.org/a
 ## :bookmark_tabs: Citation
 To use my paper for reference, please cite it as below:
 ```bibtex
-@misc{vadlapati2024lml,
-	title={{LML: Language Model Learning a Dataset for Data-Augmented Prediction}},
+@misc{vadlapati2024lmldap,
+	title={{LML-DAP: Language Model Learning a Dataset for Data-Augmented Prediction}},
 	author={{Praneeth Vadlapati}},
 	year={2024},
-	month={Sep},
+	eprint={2409.18957},
 	archivePrefix={arXiv},
 	primaryClass={cs.CL},
+	doi={10.48550/arXiv.2409.18957},
 	url={https://arxiv.org/abs/2409.18957}
 }
 ```
