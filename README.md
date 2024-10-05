@@ -24,6 +24,8 @@ An alternative of Machine Learning using LLMs
 <img src="./files/Fig2.jpg" alt="LML Demo" width="800"> <br>
 **DAP process**: <br>
 <img src="./files/Fig1.jpg" alt="DAP Demo" width="800"> <br>
+**Result**: <br>
+<img src="./files/Result.jpg" alt="Result" width="800"> <br>
 
 
 Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
