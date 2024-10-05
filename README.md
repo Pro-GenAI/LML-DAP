@@ -8,7 +8,11 @@ An alternative of Machine Learning using LLMs
 [![License: AFL v3](https://img.shields.io/badge/License-AFLv3-yellow.svg?style=for-the-badge)](./LICENSE.md)
 [![arXiv](https://img.shields.io/badge/arXiv-2409.18957-B31B1B?logo=arxiv&style=for-the-badge)](https://arxiv.org/abs/2409.18957)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-<br>
+<!-- <br> -->
+
+> [!NOTE]
+> Please star :star: the repository to show your support. <br>
+
 
 ### Why LML & DAP:
 - Classification tasks are typically handled using Machine Learning (ML) models, which lack a balance between accuracy and interpretability.
@@ -24,9 +28,6 @@ An alternative of Machine Learning using LLMs
 
 Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
 
-> [!NOTE]
-> Please star :star: the repository to show your support. <br>
-
 ## :page_facing_up: Research Paper
 A **preprint** of the research paper is available on [arXiv](https://arxiv.org/abs/2409.18957) <br>
 
@@ -40,10 +41,10 @@ To use my paper for reference, please cite it as below:
 	eprint={2409.18957},
 	archivePrefix={arXiv},
 	primaryClass={cs.CL},
-	doi={10.48550/arXiv.2409.18957},
 	url={https://arxiv.org/abs/2409.18957}
 }
 ```
+<!-- doi={10.48550/arXiv.2409.18957}, -->
 
 
 ## :rocket: Quick Start
