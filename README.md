@@ -15,11 +15,11 @@ An alternative of Machine Learning using LLMs
 - This project introduces a new approach to using Large Language Models (LLMs) for classification tasks in an explainable way.
 - Unlike ML models that rely heavily on data cleaning and feature engineering, this method streamlines the process using LLMs.
 
-<!-- Demo image -->
+<!-- Workflow images -->
 **LML process**: <br>
-<img src="./files/LML.png" alt="LML Demo" width="800"> <br>
+<img src="./files/Fig2.jpg" alt="LML Demo" width="800"> <br>
 **DAP process**: <br>
-<img src="./files/DAP.png" alt="DAP Demo" width="800"> <br>
+<img src="./files/Fig1.jpg" alt="DAP Demo" width="800"> <br>
 
 
 Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
