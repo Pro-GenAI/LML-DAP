@@ -83,7 +83,7 @@ Use it at your own risk. The code is provided as is without any guarantees or wa
 
 
 ## :globe_with_meridians: Acknowledgements
-- Special thanks to **Groq** (https://groq.com/) for a fast a inference of Llama 3.1
+- Special thanks to **Groq** (https://groq.com/) for a fast LLM inference which saved me time for this research project.
 - Image Credits:
 	- Database: https://pixabay.com/vectors/database-data-storage-cylinder-149760/
 	- Data Summary: https://pixabay.com/vectors/documents-paper-text-icon-149799/
