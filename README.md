@@ -31,6 +31,7 @@ An alternative of Machine Learning using LLMs
 
 Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
 
+
 ## :page_facing_up: Research Paper
 A **preprint** of the research paper is available on [arXiv](https://arxiv.org/abs/2409.18957) <br>
 
@@ -80,6 +81,7 @@ This code is for educational and research purposes only.
 No author is responsible for any misuse or damage caused by this code.
 Use it at your own risk. The code is provided as is without any guarantees or warranty.
 
+
 ## :globe_with_meridians: Acknowledgements
 - Special thanks to **Groq** (https://groq.com/) for a fast a inference of Llama 3.1
 - Image Credits:
@@ -91,4 +93,3 @@ Use it at your own risk. The code is provided as is without any guarantees or wa
 
 ## :email: Contact
 For personal queries, please find my contact details here: [linktr.ee/prane.eth](https://linktr.ee/prane.eth)
-
