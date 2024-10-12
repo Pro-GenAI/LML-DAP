@@ -6,7 +6,10 @@ import time
 from dotenv import load_dotenv
 import openai
 
-load_dotenv(override=True)  # bypass the cache and reload the variables
+def load_env():
+	load_dotenv(override=True)  # bypass the cache and reload the variables
+load_env()
+
 random_state = 1
 data_folder = 'data_files'
 if not os.path.exists(data_folder):
