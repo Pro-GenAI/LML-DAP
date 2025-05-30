@@ -6,6 +6,7 @@
 An alternative of Machine Learning using LLMs
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-yellow.svg?style=for-the-badge)](./LICENSE.md)
+[![DOI](https://img.shields.io/badge/DOI-10.34218/IJCET_16_01_001-darkgreen?style=for-the-badge)](https://doi.org/10.34218/IJCET_16_01_001)
 [![arXiv](https://img.shields.io/badge/arXiv-2409.18957-B31B1B?logo=arxiv&style=for-the-badge)](https://arxiv.org/abs/2409.18957)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@praneeth.v/introducing-lml-dap-a-new-way-to-combine-language-models-with-data-for-better-predictions-b9385566f747)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
