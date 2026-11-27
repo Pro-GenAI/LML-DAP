@@ -62,7 +62,7 @@ Run the file [Experiment-LML.ipynb](Experiment-LML.ipynb)
 
 
 ## :computer: More Projects
-For more projects, open the profile: **[@Pro-GenAI](https://github.com/Pro-GenAI)** <br>
+For more projects by Praneeth Vadlapati, see the **[GitHub organization](https://github.com/Pro-GenAI)** <br>
 
 
 ## :hammer_and_wrench: Contributing
